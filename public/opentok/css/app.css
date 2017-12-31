@@ -1,0 +1,20 @@
+#otEmbedContainer {
+  margin: 0px auto;
+}
+
+
+#subscriber {
+    width: 100%;
+    height: 360px;
+    border: 3px solid white;
+    border-radius: 3px;
+    margin: 0px auto;
+}
+
+#publisher {
+    width: 100%;
+    height: 360px;
+    border: 3px solid white;
+    border-radius: 3px;
+    margin: 0px auto;
+}
